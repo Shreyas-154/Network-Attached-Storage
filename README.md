@@ -34,9 +34,9 @@ If you’re installing OMV on a PC running Debian or Ubuntu, use the following c
 
 ```bash
 wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
-## Step 2: Configure Storage
-```
 
+```
+## Step 2: Configure Storage
 1. **Attach Storage Drives**: Connect your storage drives (USB or internal).
 2. **Create a Filesystem**:
     - In the OMV interface, go to **Storage** > **File Systems**.
